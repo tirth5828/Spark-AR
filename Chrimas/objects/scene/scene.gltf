@@ -1,0 +1,416 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2168,
+      "max": [
+        2.5474119186401367,
+        2.2768158912658691,
+        2.3356149196624756
+      ],
+      "min": [
+        -2.5474119186401367,
+        0.057826999574899673,
+        -2.494987964630127
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 26016,
+      "componentType": 5126,
+      "count": 2168,
+      "max": [
+        0.9991726279258728,
+        0.99999809265136719,
+        0.99700337648391724
+      ],
+      "min": [
+        -0.9989355206489563,
+        -0.99999922513961792,
+        -0.99722921848297119
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2168,
+      "max": [
+        0.99964267015457153,
+        0.99997657537460327,
+        0.98499584197998047,
+        1
+      ],
+      "min": [
+        -0.99996566772460938,
+        -0.99980396032333374,
+        -0.99732106924057007,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2168,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0.008603275753557682
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 11283,
+      "max": [
+        2167
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 52032,
+      "componentType": 5126,
+      "count": 439,
+      "max": [
+        0.86814415454864502,
+        0.94875472784042358,
+        0.95030826330184937
+      ],
+      "min": [
+        -0.853371262550354,
+        -0.97001469135284424,
+        -0.84330844879150391
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 57300,
+      "componentType": 5126,
+      "count": 439,
+      "max": [
+        0.98739439249038696,
+        0.9979325532913208,
+        0.98613792657852173
+      ],
+      "min": [
+        -0.99869430065155029,
+        -0.99536800384521484,
+        -0.99832189083099365
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 34688,
+      "componentType": 5126,
+      "count": 439,
+      "max": [
+        0.9999922513961792,
+        0.17714421451091766,
+        0.99998027086257935,
+        1
+      ],
+      "min": [
+        -0.99999797344207764,
+        -0.15345846116542816,
+        -0.9999845027923584,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 17344,
+      "componentType": 5126,
+      "count": 439,
+      "max": [
+        0.60840022563934326,
+        0.3829275369644165
+      ],
+      "min": [
+        0.47483295202255249,
+        0.24936032295227051
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 45132,
+      "componentType": 5125,
+      "count": 2280,
+      "max": [
+        438
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "oscarherry3d (https://sketchfab.com/oscarherry3d)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/4bba28cde8344adb8302e0fbf1d136f8",
+      "title": "Santa's Hat"
+    },
+    "generator": "Sketchfab-3.19.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 54252,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20856,
+      "byteOffset": 54252,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 62568,
+      "byteOffset": 75108,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41712,
+      "byteOffset": 137676,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 179388,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Santa_Hat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Santa_Hat_normal.png"
+    },
+    {
+      "uri": "textures/Santa_Hat_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Santa_Hat",
+      "normalTexture": {
+        "index": 1,
+        "scale": 0.69261363639999995,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 0,
+        "strength": 0.70473484850000001,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.53503787879999998,
+        "metallicRoughnessTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "roughnessFactor": 0.79223484850000003
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "santaHatNcloth:SantaExport_Santa_Hat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "pSphere1_Santa_Hat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "84b10a64cae34c87aa91d73e38c51865.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "santaHatNcloth:SantaExport"
+    },
+    {
+      "mesh": 0,
+      "name": "santaHatNcloth:SantaExport_Santa_Hat_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.41618155367678578,
+        0.012785219422293322,
+        -0.010758984844536378,
+        0,
+        0.015561072752362473,
+        -0.19882475240730987,
+        0.3656677098902118,
+        0,
+        0.0060885634887740134,
+        -0.36577528512172641,
+        -0.1991423445682696,
+        0,
+        0.41806817054748535,
+        0.44961187243461609,
+        -2.6893868446350098,
+        1
+      ],
+      "name": "pSphere1"
+    },
+    {
+      "mesh": 1,
+      "name": "pSphere1_Santa_Hat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
